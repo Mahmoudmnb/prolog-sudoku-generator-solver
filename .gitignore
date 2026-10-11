@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+
+# Editor metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Prolog/runtime scratch files
+*.qlf
+*.tmp
+*.log
+
+# Build/cache directories
+tmp/
+temp/
+cache/
